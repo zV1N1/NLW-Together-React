@@ -27,13 +27,7 @@
 
 ---
 
-<div align="center">
-
 ## 🔥 O Projeto
-
-### Letmeask
-
-</div>
 
 Esse projeto foi desenvolvido durante a trilha de React, na sexta edição da next-level-week vulgo **NLW/Together**, aprendemos conceitos sobre Typescript, React, Hooks e boas praticas com React. Todos os esses conceitos foram aplicando para desevolver esse projeto(Letmeask).
 O letmeask e uma aplicação para melhorar a interetividade de um chat com muitas perguntas ou até para simplesmente melhorar a interação com o seu publico.
